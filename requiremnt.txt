@@ -1,6 +1,6 @@
 streamlit
 opencv-python
+requests
 folium
 streamlit-folium
 SpeechRecognition
-requests
