@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+folium
+streamlit-folium
+SpeechRecognition
+requests
